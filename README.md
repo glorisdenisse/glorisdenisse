@@ -3,8 +3,8 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Reddit Posts for Network Analysis (AlgoExpert)</b>
-  - [Network Analysis using GraphX](https://github.com/glorisdenisse/Network-Analysis/tree/main)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Network Analysis using NetworkX](https://github.com/glorisdenisse/Network-Analysis/tree/main)
+- <b>LSTM for Stock Predictions</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
