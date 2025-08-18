@@ -3,10 +3,10 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Reddit Posts for Network Analysis</b>
-  - [Network Analysis using NetworkX](https://github.com/glorisdenisse/Network-Analysis/tree/main)
+  - [Network Analysis using NetworkX - WebScience Coursework](https://github.com/glorisdenisse/Network-Analysis/tree/main)
 - <b>LSTM for Stock Predictions</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
-- <b>Python</b>
+  - [LSTM for Stock Predictions - Deep Learning Coursework](https://github.com/glorisdenisse/LSTM) <b>
+- <b>Apache Spark </b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
