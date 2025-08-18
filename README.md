@@ -7,7 +7,7 @@
 - <b>LSTM for Stock Predictions</b>
   - [LSTM for Stock Predictions - Deep Learning Coursework](https://github.com/glorisdenisse/LSTM) <b>
 - <b>Apache Spark </b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Big Data Asset Recommender](https://github.com/glorisdenisse/Asset-Recommender)
 
 
 <h2> 🤳 Connect with me:</h2>
