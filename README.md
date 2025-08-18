@@ -6,8 +6,8 @@
   - [Network Analysis using NetworkX - WebScience Coursework](https://github.com/glorisdenisse/Network-Analysis/tree/main)
 - <b>LSTM for Stock Predictions</b>
   - [LSTM for Stock Predictions - Deep Learning Coursework](https://github.com/glorisdenisse/LSTM)
-- <b>Text Classifier </b>
-  - [Text Classifier](https://github.com/glorisdenisse/Asset-Recommender)
+- <b>NLP for Multi Class Text Classifier </b>
+  - [NLP - Text Classifier](https://github.com/glorisdenisse/NLP-for-Multi-Class-Text-Classification)
 - <b>Apache Spark </b>
   - [Big Data Asset Recommender](https://github.com/glorisdenisse/Asset-Recommender)
 
