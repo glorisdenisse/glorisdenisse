@@ -24,8 +24,7 @@ Building financial systems with focus on backend development. IEEE Lance Staffor
 
 - **IEEE Lance Stafford Larson Award (2020)** - International award for innovation in technology
   - [IEEE Computer Society Award](https://www.computer.org/volunteering/awards/scholarships/larson)
-  - Media coverage: [Telemetro Panama](https://x.com/TReporta/status/1417667575023030272?s=20) | [El Siglo Panama](https://elsiglo.com.pa/panama/nacionales/estudiante-gana-premio-internacional-innovacion-tecnologia-YIES24178259) | [UP News](https://uphacialaluz.com/2021/05/17/gloris-cedeno-batista-estudiante-de-la-facultad-de-informatica-electronica-y-comunicacion-gana-premio-2020-lance-stafford-larson/)
-  - [Radio Interview (SENACYT)](https://www.youtube.com/watch?v=A6KAiPnI4io&list=PLVeRgSd5mdYCrerioiqZNXSpBHWNjGvuY&index=32)
+  - Media coverage: [Telemetro Panama](https://x.com/TReporta/status/1417667575023030272?s=20) | [El Siglo Panama](https://elsiglo.com.pa/panama/nacionales/estudiante-gana-premio-internacional-innovacion-tecnologia-YIES24178259) | [UP News](https://uphacialaluz.com/2021/05/17/gloris-cedeno-batista-estudiante-de-la-facultad-de-informatica-electronica-y-comunicacion-gana-premio-2020-lance-stafford-larson/) | [Radio Interview (SENACYT)](https://www.youtube.com/watch?v=A6KAiPnI4io&list=PLVeRgSd5mdYCrerioiqZNXSpBHWNjGvuY&index=32)
 
 <h2> 🤳 Connect with me:</h2>
 
