@@ -1,6 +1,6 @@
 <h1>Hi, I'm Gloris! <br/></h1>
 
-<h3>Backend Engineer @ Asset Management | MSc Data Science (Glasgow, 2025)</h3>
+<h3>Data Engineer @ Asset Management | MSc Data Science (Glasgow, 2025)</h3>
 
 Building financial systems with focus on backend development. IEEE Lance Stafford Larson Award winner (2020). Passionate about AI research and open-source contributions.
 
